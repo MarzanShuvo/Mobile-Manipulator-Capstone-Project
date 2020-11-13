@@ -81,12 +81,12 @@ Run : `python3 script.py`
 ## Result:
 
 ### Error Plot
-The error plot result is
 
 ![errorplot](https://github.com/MarzanShuvo/Mobile-Manipulator-Capstone-Project/blob/main/results/Best/error.png)
 
 ### Simulation
-The Picture of the simulation 
+The Picture of the simulation
+
 ![Video](https://github.com/MarzanShuvo/Mobile-Manipulator-Capstone-Project/blob/main/results/Best/simulation_.png)
 
 video will be found in
