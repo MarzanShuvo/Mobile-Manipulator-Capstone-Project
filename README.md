@@ -75,7 +75,7 @@ A software that plans a trajectory for the end-effector of the youBot mobile man
 * jbase : base jacobian
 
 ## For running the code:
-Go to : `./code/script.py`
+Go to : `./code/`
 Run : `python3 script.py`
 
 ## Result:
