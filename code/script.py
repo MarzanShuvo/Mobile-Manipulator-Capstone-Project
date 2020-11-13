@@ -1,3 +1,5 @@
+"""author: Marzan Alam
+   Date: 13-11-2020"""
 import modern_robotics as mr
 import numpy as np
 from math import cos, sin
