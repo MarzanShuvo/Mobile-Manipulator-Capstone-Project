@@ -1,0 +1,3 @@
+It took about 2 days to finally complete this project. I have faced a numbers of problem during solving the problem. But I was able to solve those. I have followed as described in the lecture and It was nicely descriped by the professor. I have faced problem during tuning the gains of the controller. Actually I was sacred that I did something wrong. But when I started tuning the gains, It was really amazing.
+
+Firstly I generated a trajectory for the end effector. Then I looped over trajectory and calculated X, Jarm, Jbase, X_desired, X_desired_next. Then I calculated desired velocity and error. Using the velocity, next stage of the chassis was calculated.

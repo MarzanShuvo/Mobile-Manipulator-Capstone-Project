@@ -1,0 +1,5 @@
+2020-11-13 08:04:30,495 - Saving Trajectory csv file
+2020-11-13 08:04:36,436 - Generating animation csv file.
+2020-11-13 08:04:36,478 - Writing error plot data.
+2020-11-13 08:05:29,554 - Done.
+
