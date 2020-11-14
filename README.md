@@ -23,7 +23,7 @@ A software that plans a trajectory for the end-effector of the youBot mobile man
  * g : graspping state
     
 #### OUTPUT : 
-* Next chassis Configuration
+* new_config : Next chassis Configuration
 
 ### Reference Trajectory Generation
 `def TrajectoryGenerator(Tse_i, Tsc_i, Tsc_f, Tce_g, Tce_s,k)`
@@ -75,7 +75,7 @@ A software that plans a trajectory for the end-effector of the youBot mobile man
 * jbase : base jacobian
 
 ## For running the code:
-Go to : `./code/`
+Go to : `./code`
 Run : `python3 script.py`
 
 ## Result:
@@ -89,5 +89,5 @@ The Picture of the simulation
 
 ![Video](https://github.com/MarzanShuvo/Mobile-Manipulator-Capstone-Project/blob/main/results/Best/simulation_.png)
 
-video will be found in
+video can be found in
 `results/Best/simulation.mp4`
